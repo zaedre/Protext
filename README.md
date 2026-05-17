@@ -1,0 +1,1 @@
+Protext is an AI chat app with a trick: it keeps a live "Context Bible" - a structured summary that updates after every reply and travels with every message. The AI reads the Bible instead of your full history, so long conversations stay sharp without hitting token limits. No subscription, no backend. Bring your own Anthropic key.
